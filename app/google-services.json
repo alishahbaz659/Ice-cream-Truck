@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469622999682",
+    "firebase_url": "https://ice-cream-truck-tracker-e8969-default-rtdb.firebaseio.com",
+    "project_id": "ice-cream-truck-tracker-e8969",
+    "storage_bucket": "ice-cream-truck-tracker-e8969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469622999682:android:d323c38f319cedeab0029b",
+        "android_client_info": {
+          "package_name": "com.github.abdularis.trackmylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469622999682-2auo3lmdckojqnccl8jhumsj3e13gu02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.abdularis.trackmylocation",
+            "certificate_hash": "8ecee67565df6162174dce203d10b43899563655"
+          }
+        },
+        {
+          "client_id": "469622999682-bq92os2kihdf1u5p9aafmqsmfdojmh33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQi0W0oPjVWsx8ftTLOuNk3sPvaxe1h0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469622999682-bq92os2kihdf1u5p9aafmqsmfdojmh33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

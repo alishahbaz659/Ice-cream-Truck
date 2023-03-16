@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sweet tooth shop</string>
+    <string name="app_desc">Track other\'s phone location with simple</string>
+    <string name="sign_in_desc">Please sign in or register new account</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="track_location">Track Location</string>
+    <string name="share_location">Share Location</string>
+    <string name="start">Start</string>
+    <string name="device_id">Device Id:</string>
+    <string name="lat_long">Lat/Long:</string>
+    <string name="login">Login</string>
+    <string name="stop">Stop</string>
+    <string name="disconnected">diconnected</string>
+    <string name="fetching">fetching...</string>
+    <string name="google_maps_api_key">AIzaSyCspwimsU14pSIBzbDHIRAU37TodLPDqfc</string>
+    <string-array name="login_spinner_name">
+        <item>Driver</item>
+        <item>Customer</item>
+    </string-array>
+</resources>
